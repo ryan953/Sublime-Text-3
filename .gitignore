@@ -1,0 +1,13 @@
+*.cache
+*.pyc
+*.last-run
+
+Backup/*
+Cache/*
+Index/*
+Installed Packages/*
+Local/*
+Packages/*
+Packages/User/Package Control.system-ca-bundle
+Packages/User/SublimeGit.sublime-settings
+!Packages/User/

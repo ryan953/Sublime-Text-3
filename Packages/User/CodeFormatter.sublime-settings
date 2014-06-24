@@ -1,0 +1,6 @@
+{
+  "codeformatter_php_options": {
+    "indent_size": 4, // Indent size
+    "indent_with_tabs": true, // Indent with tabs or spaces
+  }
+}

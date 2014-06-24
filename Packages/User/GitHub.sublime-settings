@@ -1,0 +1,13 @@
+{
+  "accounts": {
+    "Public GitHub": {
+      "base_uri": "https://api.github.com",
+      "github_token": ""
+    },
+    "FreshBooks": {
+      "base_uri": "https://github.2ndsiteinc.com/api/v3",
+      "github_token": "9144bad7c46a8d5fafb14da11d2b3a88adb566b5"
+    }
+  },
+  "always_highlight_current_line": true
+}
