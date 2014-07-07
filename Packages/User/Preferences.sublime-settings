@@ -13,9 +13,12 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"SublimeCodeIntel",
 		"Vintage",
-		"CodeFormatter"
+		"SublimeCodeIntel",
+		"CodeFormatter",
+		"Better CoffeeScript",
+		"Handlebars",
+		"SublimeLinter"
 	],
 	"indent_guide_options":
 	[
