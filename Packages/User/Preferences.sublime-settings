@@ -16,7 +16,10 @@
 		"CodeFormatter",
 		"Vintage",
 		"SublimeCodeIntel",
-		"Better CoffeeScript"
+		"Better CoffeeScript",
+		"CodeFormatter",
+		"Handlebars",
+		"SublimeLinter"
 	],
 	"indent_guide_options":
 	[
